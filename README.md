@@ -11,7 +11,7 @@
 
 - Type a letter or a word and press ENTER and try to find the word with the least attempts possible
 
-- 3 extra options of writting for the word the player is looking for 
+- 3 extra options of writting for the word the player is looking for :
     - shadow.txt
     - standart.txt
     - thinkertoy.txt
